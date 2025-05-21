@@ -1,0 +1,120 @@
+{
+    "0": {
+        "requiretest": false,
+        "requirevideo": true,
+        "fontcolor": "--black",
+        "color": "--purple",
+        "url": "?page=0",
+        "icon": "assets/icons/one.svg",
+        "number": "01.",
+        "mintitle": "Définition",
+        "title": "C’est quoi une puissance de 10 ?",
+        "subtitle": "À la base, il faut déjà comprendre ce qu’est une puissance de 10 afin de parfaitement l’utiliser.",
+        "article": "Une puissance de 10, c’est une façon rapide d’écrire combien de fois on multiplie 10 par lui-même. Par exemple, 10ˆ3, ça veut dire 10×10×10.",
+        "urlvideo": "link",
+        "creditvideo": "Yvan Monka"
+    },
+
+    "1": {
+        "requiretest": false,
+        "requirevideo": false,
+        "fontcolor": "--black",
+        "color": "--green",
+        "url": "?page=1",
+        "icon": "assets/icons/two.svg",
+        "number": "02.",
+        "mintitle": "Positif",
+        "title": "Essayons notre puissance de 10",
+        "subtitle": "Après avoir les bases, il faut s’essayer aux puissances de 10 avec des nombres positifs.",
+        "article": "Si le petit chiffre en haut (appelé exposant) est positif, comme 10^2, cela veut dire qu’on multiplie 10 par lui-même plusieurs fois. Par exemple, 10^2 = 10×10 = 100.",
+        "urlvideo": "link",
+        "creditvideo": "Yvan Monka"
+    },
+
+    "2": {
+        "requiretest": false,
+        "requirevideo": false,
+        "fontcolor": "--black",
+        "color": "--yello",
+        "url": "?page=2",
+        "icon": "assets/icons/three.svg",
+        "number": "03.",
+        "mintitle": "Négatif",
+        "title": "Mais que faire du négatif ?",
+        "subtitle": "Même dans le négatif, il y a toujours du positif ! C’est ce que nous allons voir ici.",
+        "article": "Si l’exposant est négatif, comme 10^(−2), cela signifie qu’on divise 1 par 10 fois à cette puissance. Autrement dit, on déplace la virgule vers la gauche. Par exemple, 10^(−2) correspond à 1/(10×10) = 0,01.",
+        "urlvideo": "link",
+        "creditvideo": "Yvan Monka"
+    },
+
+    "3": {
+        "requiretest": false,
+        "requirevideo": false,
+        "fontcolor": "--black",
+        "color": "--red",
+        "url": "?page=3",
+        "icon": "assets/icons/four.svg",
+        "number": "04.",
+        "mintitle": "Nulle",
+        "title": "Et quand il y a rien ?",
+        "subtitle": "Eh bien oui, parfois on touche le zéro, mais souvent il suffit d’un rien pour faire quelque chose...",
+        "article": "Quand on met un exposant 0, ça veut toujours faire 1. Par exemple, 10^0 = 1. C’est une règle spéciale des puissances !",
+        "urlvideo": "link",
+        "creditvideo": "Yvan Monka"
+    },
+
+    "4": {
+        "requiretest": false,
+        "requirevideo": false,
+        "fontcolor": "--black",
+        "color": "--bloue",
+        "url": "?page=4",
+        "icon": "assets/icons/five.svg",
+        "number": "05.",
+        "mintitle": "Pratique",
+        "title": "Sacrément pratique !",
+        "subtitle": "Bien sûr, les puissances sont très pratiques dans beaucoup de cas !",
+        "article": "Les puissances de 10 sont super utiles pour écrire des très grands nombres (comme un million 10^6) ou des très petits nombres (comme 0,001 qui s’écrit 10^(−4)) sans écrire plein de zéros.",
+        "urlvideo": "link",
+        "creditvideo": "Yvan Monka"
+    },
+
+    "5": {
+        "requiretest": false,
+        "requirevideo": false,
+        "color": "--pink",
+        "fontcolor": "--black",
+        "url": "?page=5",
+        "icon": "assets/icons/six.svg",
+        "number": "06.",
+        "mintitle": "Utilisations",
+        "title": "Partout autour de nous",
+        "subtitle": "Elles sont tellement pratiques qu’on en retrouve partout sans même y penser !",
+        "article": "Les puissances de 10 sont partout : en maths, dans les sciences, et même dans la vie de tous les jours. Par exemple, on parle de kilo (1000 ou 10^3), méga (1 000 000 ou 10^6), ou encore milli (0,001 ou 10^(-3)).",
+        "urlvideo": "link",
+        "creditvideo": "Yvan Monka"
+    },
+
+    "6": {
+        "requiretest": false,
+        "requirevideo": false,
+        "fontcolor": "--white",
+        "color": "--greydark",
+        "url": "?page=6",
+        "icon": "assets/icon3.svg",
+        "number": "07.",
+        "mintitle": "Mentions légales",
+        "title": "Mentions légales",
+        "subtitle": "Ce site web a été développé dans le cadre d‘un projet étudiant. Il peut contenir du contenu appartenant à autrui.",
+        "title1": "Créateur et responsable légal",
+        "article1": "Ramzi IDIR, étudiant en BUT Métiers du Multimédia et de l'Internet à l’Université Sorbonne Paris Nord.",
+        "title2": "Hébergement",
+        "article2": "Direction des Systèmes d’Information de l’Université Sorbonne Paris Nord.",
+        "title3": "Propriété intellectuelle",
+        "article3": "Ce site contient des extraits vidéos produites par Yvan Monka (Maths et Tiques). Ces extraits sont préparés par moi-même.",
+        "title4": "Procédure de notification",
+        "article4": "L’utilisateur qui constaterait des inexactitudes dans les informations publiées, ou s’opposerait à la publication de tout ou partie du contenu de ce site, peut en informer à tout moment le responsable de la publication (mentionné ci-dessus) afin que celui-ci y mette fin.",
+        "title5": "Droit applicable",
+        "article5": "En cas de litige, le droit français est applicable. Il est fait attribution exclusive de juridiction aux tribunaux compétents."
+    }
+}
