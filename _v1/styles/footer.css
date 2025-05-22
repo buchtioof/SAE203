@@ -1,0 +1,14 @@
+.footer {
+    padding: 24px 0px;
+    align-self: stretch;
+    background: var(--greydark);
+}
+
+.fter_paragraph {
+    color: var(--white);
+    text-align: center;
+}
+
+.underline{
+    text-decoration: solid;
+}

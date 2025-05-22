@@ -1,0 +1,100 @@
+@import url(https://fonts.googleapis.com/css?family=Sora:100,200,300,regular,500,600,700,800);
+@import url(https://fonts.googleapis.com/css?family=Instrument+Sans:regular,500,600,700,italic,500italic,600italic,700italic);
+
+:root {
+    --black: #000;
+    --white: #FFF;
+    --greydark: #1F1F28;
+    --bloue: #BDE9F4;
+    --green: #BDF4D3;
+    --pink: #F4BDE3;
+    --purple: #CCBDF4;
+    --red: #F4CEBD;
+    --yello: #FDF9BD;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: var(--white);
+}
+
+h1 {
+    color: var(--black);
+    /* H1.tablet */
+    font-family: Sora;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+h2 {
+    color: var(--black);
+
+    /* H2 */
+    font-family: Sora;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+p {
+    color: var(--black);
+    font-feature-settings: 'ss01'on, 'ss02'on;
+    /* P.tablet */
+    font-family: "Instrument Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+a {
+    color: var(--white);
+    /* P.tablet */
+    font-family: "Instrument Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+/* Phone responsive */
+@media (max-width: 720px) {
+    h1 {
+        color: var(--black);
+        /* H1.mobile */
+        font-family: Sora;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+    }
+
+    p {
+        color: var(--black);
+        font-feature-settings: 'ss01'on, 'ss02'on;
+        /* P.mobile */
+        font-family: "Instrument Sans";
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+
+    a {
+        color: var(--white);
+        /* P.mobile */
+        font-family: "Instrument Sans";
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+}
